@@ -17,7 +17,7 @@ or
 ```
 yarn install
 ```
-## Configure database:
+## Configure database
 Go to root directory, edit the file in models/db.js and configure Sequelize with your configurations.
 
 ## How to run
